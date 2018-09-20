@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rg3/youtube-dl.svg?branch=master)](https://travis-ci.org/rg3/youtube-dl)
+[![Build Status](https://travis-ci.org/rg3/youtube-dl.svg?branch=master)](https://travis-ci.org/rg3/youtube-dl) ![Code Helpers](https://www.codetriage.com/rg3/youtube-dl/badges/users.svg)
 
 youtube-dl - download videos from youtube.com or other video platforms
 
